@@ -1,0 +1,46 @@
+a{
+    color: rgb(255, 94, 0);
+    text-decoration: none;
+}
+.head :: Pet{
+    color: red;
+    
+}
+img{
+   
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    padding-top:5px;
+    padding-left: 5px;
+}
+.container{
+    display: flex
+}
+.container1{
+    height: 510px;
+    width: 320px;
+    border: 2px solid black;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    text-align: start;
+    padding-left: 5px;
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+.container2{
+    height: 510px;
+    width: 320px;
+    border: 2px solid black;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    text-align: start;
+    padding-left: 5px;
+    
+}
